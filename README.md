@@ -1,6 +1,5 @@
 # House_price_prediction
 predicting house prie using linear regression , ridge regression and lasso based on classsification metrics Mean absolute error (MAE), Mean squared error(MSE), Root mean squared error (RMSE), R2.
-# House Price Prediction
 
 A regression project that predicts median house values using the California Housing dataset from scikit-learn.
 
